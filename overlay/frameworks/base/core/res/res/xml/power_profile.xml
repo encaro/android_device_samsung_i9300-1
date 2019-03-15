@@ -30,7 +30,7 @@
   <item name="wifi.scan">220</item>
   <item name="dsp.audio">88</item>
   <item name="dsp.video">88</item>
-  <item name="radio.active">185</item>
+  <item name="radio.active">50</item>
   <!-- The current consumed by the radio when it is scanning for a signal -->
   <item name="radio.scanning">88</item>
   <item name="gps.on">50</item>
