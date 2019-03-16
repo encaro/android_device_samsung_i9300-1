@@ -14,21 +14,3 @@ ro.ril.telephony.nstrings=4
 
 # Camera API
 persist.camera.HAL3.enabled=1
-
-# AdGuard DNS
-net.dns1=176.103.130.130
-net.dns2=176.103.130.131
-net.rmnet0.dns1=176.103.130.130
-net.rmnet0.dns2=176.103.130.131
-net.gprs.dns1=176.103.130.130
-net.gprs.dns2=176.103.130.131
-net.ppp0.dns1=176.103.130.130
-net.ppp0.dns2=176.103.130.131
-net.wlan0.dns1=176.103.130.130
-net.wlan0.dns2=176.103.130.131
-net.eth0.dns1=176.103.130.130
-net.eth0.dns2=176.103.130.131
-dhcp.eth0.dns1=176.103.130.130
-dhcp.eth0.dns2=176.103.130.131
-dhcp.wlan0.dns1=176.103.130.130
-dhcp.wlan0.dns2=176.103.130.131
