@@ -53,6 +53,37 @@ PRODUCT_COPY_FILES += \
 
 # Product specific Packages
 PRODUCT_PACKAGES += \
+     MuPDF \
+     GmsCore \
+     GsfProxy \
+     FakeStore \
+     com.google.android.maps.jar \
+     Telegram \
+     Signal \
+     Mail \
+     BlissLauncher \
+     BlissIconPack \
+     MozillaNlpBackend \
+     OpenWeatherMapWeatherProvider \
+     AccountManager \
+     MagicEarth \
+     OpenCamera \
+     eDrive \
+     Weather \
+     Notes \
+     Tasks \
+     NominatimNlpBackend \
+     Light \
+     DroidGuard \
+     OpenKeychain \
+     QKSMS \
+     Bromite \
+     BromiteWebView \
+     LibreOfficeViewer
+
+
+# Product specific Packages
+PRODUCT_PACKAGES += \
     libsecril-client \
     libsecril-client-sap \
     SamsungServiceMode \
